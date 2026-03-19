@@ -46,9 +46,9 @@ How It Works
 1. Add Patient
 Takes input from user
 Stores patient in queue
-2. Display Patients
+3. Display Patients
 Shows all patients currently waiting
-3. Treat Patient
+4. Treat Patient
 Finds patient with highest priority
 Removes that patient from queue
 
